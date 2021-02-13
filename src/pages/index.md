@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Nate Duff | Home
 image: /img/spartyfam.jpg
-heading: My Resume
+heading: My resume
 subheading: DevOps Cloud Engineer
 mainpitch:
-  title: What's Inside
+  title: What to expect
   description: The latest and greatest technologies, solutions, and architectures
     in Azure and Microsoft 365 (my opinion) from SharePoint to Azure DevOps to
     PowerShell & more.
